@@ -25,13 +25,17 @@
 
 
 Ларек
+
 ![image](https://github.com/user-attachments/assets/67a9c345-0494-4154-856e-a5dbce0cca7f)
 
 Защита от спама
+
 ![image](https://github.com/user-attachments/assets/fa6d0e9c-f29a-4c4e-bf7b-4b020e3b5b48)
 
 Игра однорукий бандит 
+
 ![image](https://github.com/user-attachments/assets/7f1f89a3-5625-4ec7-b99d-6397c748ed03)
 
 Профиль
+
 ![image](https://github.com/user-attachments/assets/0e3bc0eb-cf89-4ec6-93d4-60e1f35cb35e)
